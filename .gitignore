@@ -6,3 +6,5 @@ lib/
 pip-selfcheck.json
 share
 MNIST_data/
+
+\.idea/
