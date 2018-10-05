@@ -1,0 +1,2 @@
+model_checkpoint_path: "C:\\Users\\alonh\\Documents\\Thesis\\MNIST-adversarial-images\\original-nn-data.ckpt"
+all_model_checkpoint_paths: "C:\\Users\\alonh\\Documents\\Thesis\\MNIST-adversarial-images\\original-nn-data.ckpt"
